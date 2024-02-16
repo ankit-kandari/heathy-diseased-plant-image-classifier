@@ -1,0 +1,1 @@
+In this project i gathered data from google and downloaded two sets one containing diseased and other containing healthy looking plants and i used opencv read my images and CNN model to train my model.
